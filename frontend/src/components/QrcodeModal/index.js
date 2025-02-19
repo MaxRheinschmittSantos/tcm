@@ -113,12 +113,12 @@ const QrcodeModal = ({ open, onClose, whatsAppId }) => {
           <div style={{ marginRight: "20px" }}>
             {/* Título maior adicionado */}
             <Typography variant="h2" className={classes.title}>
-              Acessar WhatsApp no Whaticket
+              Acessar WhatsApp no TOTALChat
             </Typography>
 
             {/* Texto adicional abaixo */}
             <Typography variant="body1" color="textPrimary" className={classes.subText}>
-              Envie mensagens privadas para seus clientes diretamente pelo WhatsApp no Whaticket.
+              Envie mensagens privadas para seus clientes diretamente pelo WhatsApp no TOTALChat.
             </Typography>
 
             {/* Passo a passo */}
